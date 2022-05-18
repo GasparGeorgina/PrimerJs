@@ -1,2 +1,2 @@
-# pimerapruebajs
+# primerapruebajs
 Agerego los ejercicios solicitados
